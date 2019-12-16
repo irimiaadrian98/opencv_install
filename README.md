@@ -8,7 +8,7 @@ install cmake:
                      libavcodec-dev libavformat-dev libswscale-dev
 
 
-1.Create a directory and cone opencv from git
+1.Create a directory and clone opencv from git
 	mkdir ~/opCV
 	cd ~/opCV
 	git clone https://github.com/opencv/opencv.git
